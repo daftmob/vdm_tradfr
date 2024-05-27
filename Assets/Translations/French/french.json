@@ -1,0 +1,15 @@
+{
+  "slain_by": "J'ai été tué par ",
+  "drowned": "Je me suis noyé-blblblbl",
+  "combination": "J'ai péri ! Vraisemblablement par une combinaison ",
+  "fire": "au feu",
+  "poison": "au poison",
+  "freezing": "au froid",
+  "smoke": "à la fumée",
+  "combination_combiner": "et ",
+  "status_effect": "J'ai succombé ",
+  "gravity": "J'ai été tué par la gravité", 
+  "tree": "J'ai été tué par un arbre",
+  "impact": "J'ai été tué par un impact.. soudain",
+  "unknown": "J'ai péri d'une manière inconnue..."
+}

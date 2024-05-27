@@ -1,0 +1,9 @@
+﻿{
+  "name": "Valkyrie_Death_Messages_Traduction_FR",
+  "description": "Announce your cause of death via shout! Let your pain be heard! en Français!!!",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "dependencies": [
+    "ValheimModding-Jotunn-2.10.4"
+  ]
+}
