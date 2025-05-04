@@ -38,3 +38,6 @@ BepInEx doit être installé en premier.
 Des rapports indiquent qu'il fonctionne avec Vortex, donc yay !
 
 Il dépend de Jotunn pour fonctionner, vous devez donc l'installer également.
+
+https://www.nexusmods.com/valheim/mods/2784
+https://thunderstore.io/c/valheim/p/DaftMob/Valkyrie_Death_Messages_Traduction_FR/
